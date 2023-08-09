@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/paralympics/isas-user-guide/master/docs/_img/isas-logo.png" height="250px" alt="IBSA Logo">
+    <img src="https://raw.githubusercontent.com/paralympics/isas-user-guide/main/docs/_img/ibsa-logo.png" height="250px" alt="IBSA Logo">
 </p>
 
 <h1 align="center">IBSA Sport Administration System</h1>
